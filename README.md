@@ -1,4 +1,4 @@
-# bluecrab-ibm
+# BlueCrabIBM
 The code contains an individual-based molt-process model (Java with ECJ genetic algorithm optimization) for blue crabs in the Gulf of Mexico as developed for the 2013 GSMFC stock assessment model (GDAR-01).
 
 Final GDAR report with (brief) description of model and its use in the assessment can be found here: http://www.gsmfc.org/publications/GSMFC%20Number%20215.pdf
