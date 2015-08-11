@@ -6,6 +6,9 @@ Final GDAR report with (brief) description of model and its use in the assessmen
 See the ECJ documentation for how to run (starting point: params/bluecrabFull.params).
 
 Notes: 
+
 (1) Built circa 2012/2013 with Java 1.6 and ECJv20.
+
 (2) This repo is primarily archival and provided as is for interested individuals, no futher development expected.  
+
 (3) The data to run the model is not included in the repo (not mine to distribute), but a dedicated individual could figure out the structure from the code to run with their own.  It uses a heterogenous suite of data sources to optimize, others could be added if interesed. 
